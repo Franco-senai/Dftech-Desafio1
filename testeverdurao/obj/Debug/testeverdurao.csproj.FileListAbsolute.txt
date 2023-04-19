@@ -1,0 +1,8 @@
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\bin\Debug\testeverdurao.exe.config
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\bin\Debug\testeverdurao.exe
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\bin\Debug\testeverdurao.pdb
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\obj\Debug\testeverdurao.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\obj\Debug\testeverdurao.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\obj\Debug\testeverdurao.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\obj\Debug\testeverdurao.exe
+C:\Users\ALUNO\Desktop\Dftech\testeverdurao\testeverdurao\obj\Debug\testeverdurao.pdb
